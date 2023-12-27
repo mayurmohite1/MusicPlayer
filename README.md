@@ -1,7 +1,7 @@
 
 # Music Player
 
-Create an interactive music player web app that allows users to enjoy their favorite
+Created an interactive music player web app that allows users to enjoy their favorite
 tunes seamlessly. The app features a sleek and user-friendly interface built with HTML
 and styled with CSS for a visually appealing experience. Using JavaScript, implement
 functionalities such as play, pause, skip, and volume control. Users can easily navigate
